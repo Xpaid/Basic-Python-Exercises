@@ -25,4 +25,4 @@ This repository contains a collection of basic Python projects aimed at beginner
 
 This repository contains a collection of basic Python projects aimed at beginners. These projects cover a range of fundamental concepts, such as mathematical operations, GUI development with `tkinter`, and problem-solving techniques. 
 
-## username: user, password, pass
+## username: user, password: pass
