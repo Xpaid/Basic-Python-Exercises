@@ -10,7 +10,7 @@ import subprocess
 from resources import *
 
 USER_CREDENTIALS = {
-    "jetro": "pass",
+    "user": "pass",
 }
 
 def open_home():
